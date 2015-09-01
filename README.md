@@ -28,7 +28,7 @@ To adjust breakpoints, see the end of mqwidth-to-class.js:
 	<link href="stylesheet-processed-by-postcss-mqwidth-to-class.css" media="screen" rel="stylesheet" type="text/css" />
 	<script src="mqwidth-to-class.js"></script>
 <![endif]-->
-<!--[if gt IE 9 | !IE]><!-->
+<!--[if gte IE 9 | !IE]><!-->
     <link href="stylesheet.css" media="screen" rel="stylesheet" type="text/css" />
 <!--<![endif]-->
 ```
