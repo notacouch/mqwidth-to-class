@@ -1,0 +1,28 @@
+{
+  "name": "mqwidth-to-class",
+  "main": "mqwidth-to-class.js",
+  "version": "0.1.1",
+  "homepage": "https://github.com/notacouch/mqwidth-to-class",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/notacouch/mqwidth-to-class.git"
+  },
+  "authors": [
+    "Abed Islam <versatil@gmail.com>"
+  ],
+  "description": "Alternative to min-/max-width media queries, add classes to the html tag based on given breakpoints.",
+  "keywords": [
+    "ie8",
+    "responsive",
+    "media-queries",
+    "postcss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
